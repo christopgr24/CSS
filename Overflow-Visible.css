@@ -1,0 +1,6 @@
+.visible-me{
+    height: 40px;
+    width: 200px;
+    overflow: visible;
+    border: 3px solid black
+}

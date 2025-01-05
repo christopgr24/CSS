@@ -1,0 +1,5 @@
+.rocket{
+    border: 2px solid black;
+    /*To add curved edges to the box*/
+    border-radius: 20px;
+}

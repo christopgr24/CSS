@@ -1,0 +1,19 @@
+.static-me {
+    position: static;
+}
+
+.relative-me {
+    position: relative;
+    top: 10px;
+}
+
+.fixed-me {
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}
+.absolute-me {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}

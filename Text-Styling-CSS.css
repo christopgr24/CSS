@@ -1,0 +1,13 @@
+p{
+    /*This will change the color of the text*/
+    color: blue;
+    /*This will change which side of the page the text will appear on*/
+    text-align: center;
+    /*This will change the size of the text*/
+    /*1em = 16px*/
+    font-size: 32px;
+    /*This will change the boldness of the font*/
+    font-weight: 400;
+    /*This will change the font family*/
+    font-family: 'roboto', sans-serif;
+}

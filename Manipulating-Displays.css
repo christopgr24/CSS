@@ -1,0 +1,9 @@
+.block-me{ 
+    display: block;
+}
+
+.line-me, .inline-you {
+    display: inline;
+    height: 20px;
+    width: 50%;
+}
